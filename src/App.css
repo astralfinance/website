@@ -24,6 +24,11 @@
   flex-direction: column;
 
 }
+
+.what-is a {
+  text-decoration: none;
+  color: lightseagreen;
+}
 .nft {
   /* background-color: aliceblue; */
   width: 50%;
