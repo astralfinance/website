@@ -1,38 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
 .App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-image: url('./assets/bg.jpg');
+  background-size: cover;
+  /* height: 100vh; */
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  /* display: flex;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  flex-direction: column; */
+}
+
+.what-is {
+  /* background-color: aliceblue; */
+  width: 70%;
+  display: flex;
+  justify-content: center;
+  /* background-color: chartreuse; */
+  flex-direction: column;
+
+}
+.nft {
+  /* background-color: aliceblue; */
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  /* background-color: rgb(59, 0, 236); */
   color: white;
+
 }
 
-.App-link {
-  color: #61dafb;
+.nft p {
+  font-size: 3rem;
+  color: white;
+  font-family: 'VT323', monospace;
+ }
+ 
+
+.what-is p {
+ font-size: 3rem;
+ color: white;
+ font-family: 'VT323', monospace;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.astral {
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  /* background-color: burlywood; */
+
+}
+
+
+.presale {
+  font-family: 'Courier New', Courier, monospace !important;
+  font-size: 2rem !important;
+  font-weight: 800 !important;
+  color: rgb(255, 255, 255) !important;
+  background-color: rgb(39, 19, 77)
+}
+
+.para {
+  font-family: 'Courier New', Courier, monospace !important;
+  font-size: 2rem !important;
+  font-weight: 800 !important;
+  color: rgb(255, 255, 255) !important;
+  background-color: rgb(39, 19, 77)
 }
