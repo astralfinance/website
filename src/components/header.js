@@ -14,7 +14,7 @@ const Header = (props) => {
    <p> Astral Token is a community driven token that aims to combine audio/visual NFTs with a sustainable reward and staking platform. The goal is to bring together artists from all walks into a collaborative experience that allows them to showcase their art to a wider audience. And in addition to our NFT showcase, we offer our the holders and liquidity providers of $ASTRAL token weekly rewards. Our roadmap also includes the ability to earn $ASTRAL token by holding NFTs we offer on our platform. 
     <br /> <br />
     Ticker: $ASTRAL<br />
-    Token contract: <a href="https://etherscan.io/address/0xd1bdfad87d59e0bdd2d1fd88ab5129c928d3ccce">0xd1bdfad87d59e0bdd2d1fd88ab5129c928d3ccce </a>
+    Token contract: <a href="https://etherscan.io/address/0xd1bdfad87d59e0bdd2d1fd88ab5129c928d3ccce" target="_blank" rel="noopener noreferrer">0xd1bdfad87d59e0bdd2d1fd88ab5129c928d3ccce </a>
    
      </p><br /><br />
      <span className="res">
