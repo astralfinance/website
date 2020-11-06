@@ -15,6 +15,7 @@ const Example = (props) => {
       <li><Link to="/faq">FAQ</Link></li>
       <li><Link to="/tokenomics">Tokenomics</Link></li>
       <li><a href="/nfts">NFTs</a></li>
+      <li><a href="https://t.me/astralfinance">Telegram</a></li>
       <li><a href="https://github.com/astralfinance">Github</a></li>
       <li><a href="https://twitter.com/astralfinance">Twitter</a></li>
     </ul>

@@ -52,7 +52,7 @@ What can NFT be used for? <br />
 
 Where can we see the first NFT? <br />
 
-<span className="res">Our telegram announcement channel. </span>
+<span className="res">Check menu, NFTs</span>
 
 <br /> <br />
 
