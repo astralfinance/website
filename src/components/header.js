@@ -19,20 +19,18 @@ const Header = (props) => {
      </p><br /><br />
      <span className="res">
       <p>PRESALE INFO</p> 
-<p className="presale">  ‍DATE: NOVEMBER 6TH / 5PM UTC - WHITELIST (google form) <br /> Pre-sale and listing will take place shortly after.
+<p className="presale">  ‍DATE: NOVEMBER 13TH / 5PM UTC - FCFS <br />and listing will take place shortly after.
 <br /> <br />
 
-PRESALE ALLOCATION: 1200 $ASTRAL (UNSOLD BURNED)<br /> <br />
+PRESALE ALLOCATION: 1000 $ASTRAL<br /> <br />
 
-700 ASTRAL LIQUIDITY: WILL BE ADDED TO UNISWAP IMMEDIATELY<br /> <br />
-
-REMAINING WILL GO TOWARD REWARD POOLS AND DEVELOPMENT + MARKETING FOR NEW ARTISTS <br /><br />
+600 ASTRAL LIQUIDITY: WILL BE ADDED TO UNISWAP IMMEDIATELY<br /> <br />
 
 LIQUIDITY WILL BE LOCKED VIA BURN ADDRESS IMMEDIATELY<br /> <br />
 
-0.5 ETH = 7.5 $ASTRAL <br /> <br />
+0.5 ETH = 12.5 $ASTRAL <br /> <br />
 
-1 ETH = 15 $ASTRAL <br /> <br />
+1 ETH = 25 $ASTRAL <br /> <br />
 
 MINIMUM BUY IN: 0.5 ETH <br /><br />
 MAXMIUM BUY IN: 1 ETH</p>
